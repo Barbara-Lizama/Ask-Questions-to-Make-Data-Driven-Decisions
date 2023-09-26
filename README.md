@@ -1,4 +1,4 @@
-# Course-Ask-Questions-to-Make-Data-Driven-Decisions
+# Ask-Questions-to-Make-Data-Driven-Decisions
 ## Descriptive analysis for job applicants
  2019_data_analyst_job.xlsx 
 
